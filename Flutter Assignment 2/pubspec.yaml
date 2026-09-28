@@ -1,0 +1,10 @@
+name: mock_api_dart_app
+description: A Dart program demonstrating null safety, Futures, and async/await with mock API data and error handling.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
+
